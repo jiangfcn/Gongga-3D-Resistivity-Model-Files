@@ -1,5 +1,5 @@
 # Gongga-3D-Resistivity-Model-Files
-Model and data file in this folder are linked to a paper titled 'Mechanism for the Uplift of Gongga Shan in the Southeastern Tibetan Plateau Constrained by 3D Magnetotelluric Data'，authored by Feng Jiang, Xiaobin Chen, Unsworth Martyn, et al.
+Model and data file in this folder link to a paper titled 'Mechanism for the Uplift of Gongga Shan in the Southeastern Tibetan Plateau Constrained by 3D Magnetotelluric Data'，authored by Feng Jiang, Xiaobin Chen, Unsworth Martyn, et al.
 
 * All the figures and bigger files related to this paper can be found in a open repository Zenodo at DOI：10.5281/zenodo.7988314 and 10.5281/zenodo.5788041.
 * This folder includes the model and data files in ModEM format. 
